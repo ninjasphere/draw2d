@@ -9,10 +9,10 @@ import (
 	"image/color"
 	"math"
 
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dkit"
-	"github.com/llgcode/draw2d/samples"
-	"github.com/llgcode/draw2d/samples/gopher2"
+	"github.com/ninjasphere/draw2d"
+	"github.com/ninjasphere/draw2d/draw2dkit"
+	"github.com/ninjasphere/draw2d/samples"
+	"github.com/ninjasphere/draw2d/samples/gopher2"
 )
 
 // Main draws geometry and returns the filename. This should only be

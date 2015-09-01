@@ -5,7 +5,7 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/llgcode/draw2d/draw2dimg"
+	"github.com/ninjasphere/draw2d/draw2dimg"
 )
 
 func TestCircle(t *testing.T) {

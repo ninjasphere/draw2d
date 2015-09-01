@@ -8,8 +8,7 @@ import (
 	"log"
 	"path"
 	"path/filepath"
-
-	"code.google.com/p/freetype-go/freetype/truetype"
+	"github.com/ninjasphere/freetype/truetype"
 )
 
 var (

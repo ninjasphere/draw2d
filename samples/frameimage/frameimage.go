@@ -7,10 +7,10 @@ package frameimage
 import (
 	"math"
 
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dimg"
-	"github.com/llgcode/draw2d/draw2dkit"
-	"github.com/llgcode/draw2d/samples"
+	"github.com/ninjasphere/draw2d"
+	"github.com/ninjasphere/draw2d/draw2dimg"
+	"github.com/ninjasphere/draw2d/draw2dkit"
+	"github.com/ninjasphere/draw2d/samples"
 )
 
 // Main draws the image frame and returns the filename.

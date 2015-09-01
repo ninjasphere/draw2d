@@ -1,8 +1,8 @@
 package draw2dimg
 
 import (
-	"code.google.com/p/freetype-go/freetype/truetype"
-	"github.com/llgcode/draw2d"
+	"github.com/ninjasphere/freetype/truetype"
+	"github.com/ninjasphere/draw2d"
 )
 
 // DrawContour draws the given closed contour at the given sub-pixel offset.

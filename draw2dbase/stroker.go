@@ -6,7 +6,7 @@ package draw2dbase
 import (
 	"math"
 
-	"github.com/llgcode/draw2d"
+	"github.com/ninjasphere/draw2d"
 )
 
 type LineStroker struct {

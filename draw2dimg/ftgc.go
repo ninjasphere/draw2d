@@ -11,11 +11,11 @@ import (
 	"log"
 	"math"
 
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dbase"
+	"github.com/ninjasphere/draw2d"
+	"github.com/ninjasphere/draw2d/draw2dbase"
 
-	"code.google.com/p/freetype-go/freetype/raster"
-	"code.google.com/p/freetype-go/freetype/truetype"
+	"github.com/ninjasphere/freetype/raster"
+	"github.com/ninjasphere/freetype/truetype"
 )
 
 // Painter implements the freetype raster.Painter and has a SetColor method like the RGBAPainter

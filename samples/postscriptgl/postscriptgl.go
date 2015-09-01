@@ -12,8 +12,8 @@ import (
 
 	"github.com/go-gl/gl/v2.1/gl"
 	"github.com/go-gl/glfw/v3.1/glfw"
-	"github.com/llgcode/draw2d/draw2dgl"
-	"github.com/llgcode/ps"
+	"github.com/ninjasphere/draw2d/draw2dgl"
+	"github.com/ninjasphere/ps"
 )
 
 var postscriptContent string

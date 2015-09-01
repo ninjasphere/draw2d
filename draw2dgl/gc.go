@@ -6,11 +6,11 @@ import (
 	"image/draw"
 	"runtime"
 
-	"code.google.com/p/freetype-go/freetype/raster"
+	"github.com/ninjasphere/freetype/raster"
 	"github.com/go-gl/gl/v2.1/gl"
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dbase"
-	"github.com/llgcode/draw2d/draw2dimg"
+	"github.com/ninjasphere/draw2d"
+	"github.com/ninjasphere/draw2d/draw2dbase"
+	"github.com/ninjasphere/draw2d/draw2dimg"
 )
 
 func init() {

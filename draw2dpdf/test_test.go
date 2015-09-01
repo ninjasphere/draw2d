@@ -9,8 +9,8 @@ package draw2dpdf_test
 import (
 	"testing"
 
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dpdf"
+	"github.com/ninjasphere/draw2d"
+	"github.com/ninjasphere/draw2d/draw2dpdf"
 )
 
 type sample func(gc draw2d.GraphicContext, ext string) (string, error)

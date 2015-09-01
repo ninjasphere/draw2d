@@ -10,7 +10,7 @@ import (
 	"image/draw"
 	"math"
 
-	"github.com/llgcode/draw2d"
+	"github.com/ninjasphere/draw2d"
 )
 
 // ImageFilter defines the type of filter to use

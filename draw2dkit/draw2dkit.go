@@ -7,7 +7,7 @@ package draw2dkit
 import (
 	"math"
 
-	"github.com/llgcode/draw2d"
+	"github.com/ninjasphere/draw2d"
 )
 
 // Rectangle draws a rectangle using a path between (x1,y1) and (x2,y2)

@@ -14,12 +14,12 @@ import (
 	"os"
 	"strconv"
 
-	"code.google.com/p/freetype-go/freetype/truetype"
+	"github.com/ninjasphere/freetype/truetype"
 
 	"github.com/jung-kurt/gofpdf"
-	"github.com/llgcode/draw2d"
-	"github.com/llgcode/draw2d/draw2dbase"
-	"github.com/llgcode/draw2d/draw2dkit"
+	"github.com/ninjasphere/draw2d"
+	"github.com/ninjasphere/draw2d/draw2dbase"
+	"github.com/ninjasphere/draw2d/draw2dkit"
 )
 
 const (
